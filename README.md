@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common runtime error: ZeroDivisionError. The bug.py file shows the problematic code, while bugSolution.py provides a solution to handle potential division-by-zero scenarios.
